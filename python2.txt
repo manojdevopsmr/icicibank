@@ -1,4 +1,0 @@
-Hello Manoj..
-This is created for the practise purpose for github
-you can practise it
-python and python2.txt
