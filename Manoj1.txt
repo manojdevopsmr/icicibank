@@ -1,3 +1,9 @@
 xgfchjvbknlm;,./
+<<<<<<< HEAD
 vynmklhoiguyjhvbn m,lkjhigvjb nm,lnkhobvjb nm,lnkbjvh bnm,nlkbhvj 
 Manojcfgvjknmbvhgcf vbnmklhuvj b
+=======
+l;kjbhgc bnm,
+rygtwdfgbhnyrtgefdvb
+getrhnghfbefgbffbgre
+>>>>>>> ibank/master
